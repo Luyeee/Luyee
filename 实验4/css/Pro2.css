@@ -1,0 +1,196 @@
+@charset "UTF-8";
+
+body {
+    margin: 0;
+}
+
+li {
+    list-style: none;
+}
+
+.bg {
+    position: absolute;
+    width: 608px;
+    height: 881px;
+    background: url('../image/1.jpg') no-repeat;
+    opacity: 0.05;
+}
+
+
+.list1_num{
+    position: absolute;
+    color: red;
+    word-spacing: 106px;
+    font-size: 28px;
+    font-weight:bold;
+    left: 100px;
+    top: 32px;
+}
+
+.list1_word{
+    position: absolute;
+    word-spacing: 53px;
+    font-size: 24px;
+    font-weight:400;
+    left: 73px;
+    top: 67px;
+}
+
+.list2{
+    position: absolute;
+    width: 577px;
+    height: 49px;
+    background-color:rgb(150,90,10);
+    top: 129px;
+    left: 17px;
+}
+
+.list2_word{
+    color: darkorange;
+    text-align: center;
+    padding-top:9px ;
+    padding-left:59px ;
+    font-size: 24px;
+    word-spacing: 54px;
+}
+
+.list3_word{
+    position: absolute;
+    word-spacing: 53px;
+    font-size: 24px;
+    font-weight:400;
+    left: 60px;
+    top: 212px;
+}
+
+.list4_word{
+    position: absolute;
+    word-spacing: 53px;
+    font-size: 24px;
+    font-weight:400;
+    left: 35px;
+    top: 281px;
+    color: orange;
+}
+
+.list5_word{
+    position: absolute;
+    word-spacing: 84px;
+    font-size: 24px;
+    font-weight:400;
+    left: 37px;
+    top: 331px;
+}
+
+.p1{
+    position: absolute;
+    top: 407px;
+    left: 45px;
+    text-align: center;
+}
+
+.p1_word{
+    position: relative;
+    color: black;
+    font-size: 23px;
+    top: -8px;
+}
+
+.p2{
+    position: absolute;
+    top: 409px;
+    left: 198px;
+    text-align: center;
+}
+
+.p2_word{
+    position: relative;
+    color: black;
+    font-size: 23px;
+    top: -8px;
+}
+
+.p3{
+    position: absolute;
+    top: 412px;
+    left: 346px;
+    text-align: center;
+}
+
+.p3_word{
+    position: relative;
+    color: black;
+    font-size: 23px;
+    top: 3px;
+}
+
+.p4{
+    position: absolute;
+    top: 418px;
+    left: 491px;
+    text-align: center;
+}
+
+.p4_word{
+    position: relative;
+    color: black;
+    font-size: 23px;
+    top: 8px;
+}
+
+.list6_word{
+    position: absolute;
+    word-spacing: 40px;
+    font-size: 24px;
+    font-weight:400;
+    left: 65px;
+    top: 569px;
+}
+
+input{
+    height: 45px;
+    width: 369px;
+}
+
+.k1{
+    position: absolute;
+    top: 621px;
+    left: 47px;
+}
+
+.k2{
+    position: absolute;
+    top: 672px;
+    left: 47px;
+}
+
+.list7_word{
+    position: absolute;
+    word-spacing: 0px;
+    font-size: 24px;
+    font-weight:400;
+    left: 52px;
+    top: 733px;
+}
+
+.list7_num{
+    position: absolute;
+    font-size: 24px;
+    font-weight:800;
+    left: 136px;
+    top: 733px;
+    color: red;
+}
+
+button {
+    background-color: #ff4602;
+    color: white;
+    font-weight: bold;
+    font-size: 29px;
+    padding: 9px 9px;
+    border: white;
+    border-radius: 6px;
+    position: absolute;
+    top: 778px;
+    left: 47px;
+}
